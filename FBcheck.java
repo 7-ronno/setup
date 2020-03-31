@@ -1,2 +1,4 @@
-class FBcheck{
+class FBcheck
+sdgdgdfg{
 }
+
